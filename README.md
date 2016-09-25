@@ -5,16 +5,14 @@ to determine actual pronunciation. I found cmudict library but did not have chan
 thoroughly try it out.
 
 ##Project download and Install
-```
-git clone https://github.com/shekhar2/piglatin.git
+git clone https://github.com/shekhar2k1/PigLatin.git
 python setup.py install
-```
+
 
 ##Run
-```sudo python run.py server --port 80
-```
+sudo python run.py server --port 80
+
 
 ###Run
-```
 python piglatintest/test.py
-```
+

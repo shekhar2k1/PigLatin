@@ -6,8 +6,7 @@ thoroughly try it out.
 
 ##Project download and Install
 git clone https://github.com/shekhar2k1/PigLatin.git
-
-
+cd PigLatin/
 python setup.py install
 
 

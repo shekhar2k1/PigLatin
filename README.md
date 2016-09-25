@@ -12,10 +12,12 @@ cd PigLatin/
 python setup.py install
 
 
-##Run
+##Server
 sudo python run.py server --port 80
 
 
-###Run
+###Tests Run
 python piglatintest/test.py
 
+###HTTP usage
+http://127.0.0.1/translate?text=Piglatintext.

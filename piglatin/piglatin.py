@@ -15,8 +15,6 @@ def piglatin_word(input_string):
         translated = (input_string + "yay")
     elif firstVowel >= 1:
         translated = (input_string[firstVowel:] + input_string[:firstVowel] + "ay")
-        print(input_string[firstVowel:])
-        print(input_string[:firstVowel])
     else:
         pass
     if input_string.istitle():
